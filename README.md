@@ -1,4 +1,4 @@
-## Git Assinment Project
+## Git Assignment Project
 
 Name: Aishwarya Deepak Thorat
 Student Number: 24211250
