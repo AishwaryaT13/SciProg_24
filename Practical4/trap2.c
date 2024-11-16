@@ -10,7 +10,7 @@ float traprule();
 int main(){
     
     int i;
-    float a=0.0, b_deg = 60.0;    
+    float a=0.0, b_deg = 60.0;  
     float deg;
 
     for(i=0; i<N; i=i+1){

@@ -1,13 +1,13 @@
-## PRACTICAL NUMBER 3
+## Practical04
 
-This is the 3rd practical of Scientific programming. In this practical, the program calculates the approximate area under the curve of the tangent function between 0° and 60° using the trapezoidal rule.
+This is the 4th practical of scientific programming, wherein the code calculates the approximate area under the curve of the tangent function from 0° until 60° using the trapezoidal rule.
 
 ## Compile:
 
 * gcc -o trap2 trap2.c -lm
 
 
-## Execute:
+# Execute:
 
 * ./trap2
 
@@ -36,4 +36,4 @@ Real result is:0.693147
 The program calculates and prints the tangent values for each interval, 
 followed by the intermediate area computed using the trapezoidal rule. 
 It then displays the final trapezoidal result and compares it with the 
-actual value of log(2).
+actual value of log(2)
