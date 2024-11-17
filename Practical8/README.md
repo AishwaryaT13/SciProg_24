@@ -1,6 +1,6 @@
-# Practical08
+# Practical 8
 
-This is the 8th practical where we code and execute the iterative and recursive version of Euclid's alorithm to calculate teh Greateest Common Divsior(GCD) of two positive integers. In Euclid's algorithm we find gcd by repeatly dividing and taking the remainder.
+This is the 8th practical of Scientific programming, where we code and execute the iterative and recursive version of Euclid's alorithm to calculate the Greateest Common Divsior(GCD) of two positive integers. In Euclid's algorithm we find gcd by repeatly dividing and taking the remainder.
 
 * In Iterative method the function calculates the GCD by repeatedly swapping the value using the temporary variable and taking the reaminder until it is zero.
 
