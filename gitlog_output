@@ -1,0 +1,74 @@
+commit 90549180f1e5bee3ef30879aa38d62337e67a706
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Wed Nov 20 08:28:42 2024 +0000
+
+    Add practical 9 code to git repo
+
+commit b85d23b136b0d8dff46060d4f9732478c6848bf5
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Sun Nov 17 08:55:36 2024 +0000
+
+    Add practical 8 codes
+
+commit e8b68c7104c4e761b22cd2e902df449a386c1f23
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Sat Nov 16 11:31:02 2024 +0000
+
+    Add practical 7 code files
+
+commit 3e8e4312e95c4a2f7de27d0459c33ea5fa94e49b
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Thu Nov 14 05:34:22 2024 +0000
+
+    Add practical 06 code files
+
+commit b74c3df988bf168a0ca6e9b4e5bdcc7843a838d7
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Tue Nov 12 01:16:41 2024 +0100
+
+    Updated README.md with new content
+
+commit 3e8e4312e95c4a2f7de27d0459c33ea5fa94e49b
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Tue Nov 12 12:56:47 2024 +0100
+
+    Add Practical05 folder to git repo branch practical05
+
+commit 150842bc395e0aa688679fbebd5795c6c4c14372
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Sun Nov 10 03:11:10 2024 +0100
+
+    Add Practical4
+
+commit e2b770620142b079e769ccb9ea34826ffa57db1f
+Merge: 94dcd95 5dd0ec0
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Fri Nov 08 05:01:30 2024 +0100
+
+    Merge branch practical3
+
+commit 1dbce16bc8374b543d76e50b0b88ead521af6122
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Fri Nov 08 04:51:01 2024 +0100
+
+    Add use_printf.c, trap.c, and README.md to practical03 branch
+
+commit 94dcd95f0118a46c868673884d828fe1edd73e6c
+Merge: a7c4337 e56f10b
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Thu Nov 07 04:23:38 2024 +0100
+
+    Merge branch 'practical02'
+
+commit bcca5694a11bc87402378071b936b1a169997a00
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Thu Nov 07 09:51:29 2024 +0100
+
+    Added Conversion.c, Sum.c, and README.md to practical02 branch
+
+commit bcca5694a11bc87402378071b936b1a169997a00
+Author: Aishwarya Thorat <aishwaryadthorat@gmail.com>
+Date:   Thu Nov 07 04:02:34 2024 +0100
+
+
+    Initial commit
